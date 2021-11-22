@@ -1,0 +1,30 @@
+header {
+    width: 100%;
+    position: fixed;
+    div {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        background-color: #E6D9BF;
+        img {
+            margin-left: 79px;
+        }
+    }
+    .nav-div {
+        max-width: 378px;
+        width: 100%;
+        margin: 44px 120px 0 0;
+        nav {
+            ul {
+                width: 378px;
+                display: flex;
+                justify-content: space-between;
+                li {
+                    color: #713C25;
+                    font-size: 17px;
+                    font-family:'Gilroy', sans-serif;
+                }
+            }  
+        }         
+    }           
+}
